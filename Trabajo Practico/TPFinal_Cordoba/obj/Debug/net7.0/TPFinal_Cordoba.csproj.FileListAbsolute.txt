@@ -1,0 +1,15 @@
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\bin\Debug\net7.0\TPFinal_Cordoba.exe
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\bin\Debug\net7.0\TPFinal_Cordoba.deps.json
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\bin\Debug\net7.0\TPFinal_Cordoba.runtimeconfig.json
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\bin\Debug\net7.0\TPFinal_Cordoba.dll
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\bin\Debug\net7.0\TPFinal_Cordoba.pdb
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.csproj.AssemblyReference.cache
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.AssemblyInfoInputs.cache
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.AssemblyInfo.cs
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.csproj.CoreCompileInputs.cache
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.dll
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\refint\TPFinal_Cordoba.dll
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.pdb
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\TPFinal_Cordoba.genruntimeconfig.cache
+C:\Users\natsu\OneDrive\Escritorio\Curso C# Nivel 1\Trabajo Practico\TPFinal_Cordoba\obj\Debug\net7.0\ref\TPFinal_Cordoba.dll
